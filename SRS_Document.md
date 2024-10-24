@@ -1,5 +1,9 @@
 # Edufy (E-learning Platform)
-# Edufy: An E-Learning Platform
+
+## **Indroduction**:
+- **purpose**: Edufy where connects poeple together , where someone who  want to learn anything ranges from graphic design to Programming and its Realm can find the right content and also for the instructor who have the capabilities to deliver and explain his field in the most easygoing way . Our Platform Gather these two types of people at one Place .
+- **Scope**: Our Platform will provide the core functions to make the process of teaching and learning to Student/learner and Instructor/content Creator to be smooth and staighforward ,The Core Features: Course Upload , Course Browsing , User Profiles , Enrollment Process And Payment Method.
+  
 
 ## Functional Requirements
 
