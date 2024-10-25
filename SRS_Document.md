@@ -55,3 +55,6 @@
 
 #### Platform Monitoring
 - Admins should be able to monitor the overall activity on the platform (e.g., number of active courses, enrolled students) using analytics and reports.
+---
+### Payment Method Functions:
+
