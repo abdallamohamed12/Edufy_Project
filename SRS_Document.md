@@ -60,7 +60,7 @@
 ---
 #### Edufy Transaction Processing:
 - Verifies and Validate  user accounts and payment details meet Edufy’s internal requirements and then Confirms them before Sending the transaction to the Gateway .
-#### Gateway (External Entity):
+#### Payment Processor (External Entity):
 - Performs security and fraud-related checks, as well as real-time user authentication.
-#### Payment Provider (External Entity):
+
 - Handles the final transaction, debiting the payer and crediting the payee after validating funds and payment limits.
