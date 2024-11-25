@@ -64,3 +64,10 @@
 - Performs security and fraud-related checks, as well as real-time user authentication.
 
 - Handles the final transaction, debiting the payer and crediting the payee after validating funds and payment limits.
+####  Non-Functional :
+- **Performance** : The system should handle a certain number of concurrent users without
+degradation in performance.
+- **Security** : Sensitive user data must be protected, and all transactions must be conducted securely.
+- **Usability** : The user interface should be intuitive and easy to navigate.
+- **Availability** : The system should have high availability to ensure users can access courses at any
+time.
